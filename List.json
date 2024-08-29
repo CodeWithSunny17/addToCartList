@@ -1,4 +1,4 @@
-
+[
     {
       id: 1,
       title: "My First Book of Pencil Control",
@@ -95,4 +95,4 @@
       img: "https://m.media-amazon.com/images/I/81jv44QdNwL._AC_UY327_FMwebp_QL65_.jpg",
       amount: 1,
     },
-  
+];
